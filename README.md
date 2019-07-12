@@ -9,10 +9,8 @@
 
 2. Navigate to [chrome://extensions/](chrome://extensions/) in Google Chrome.
 3. Click on the "Developer mode" switch near the top right corner of the page.
-![Image 2](https://github.com/AdityaDamodaran/ItDoesWhatItShouldDo/raw/master/doc/screenshots/Dmo.png)
 
 4. Click on the "Load unpacked extension" button.
-![Image 3](https://github.com/AdityaDamodaran/ItDoesWhatItShouldDo/raw/master/doc/screenshots/Lou.png)
 
 5. Select the folder named "extension" from the files you downloaded in step 1.
 ![Image 4](https://github.com/AdityaDamodaran/ItDoesWhatItShouldDo/raw/master/doc/screenshots/Ext.png)
